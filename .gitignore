@@ -1,0 +1,17 @@
+.venv/
+.audio-cache/
+__pycache__/
+*.py[cod]
+.DS_Store
+work/
+dist/
+*.apkg
+*.dmg
+*.app/
+images/*
+!images/.gitkeep
+.anki-images.json
+.env
+.env.*
+
+word-cards.json
